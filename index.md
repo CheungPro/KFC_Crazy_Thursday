@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 拥抱新价值 V50ETF正式发售！
 
-You can use the [editor on GitHub](https://github.com/CheungPro/invest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+拥抱新价值，餐饮概念V50ETF指数基金正式发售！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+首先，从过去来看，科技创新每60年可能会有一个拐点，上一次出现在20世纪60年代由集成电路开启的信息化革命。表现在经济上则是著名的康波周期，而我们正处于上一轮康波周期之末的萧条期。每一次遇到危机，增量减少，国家之间存量博弈，人类总是通过找到下一个60年，率先开启技术突破。
 
-### Markdown
+其次，从过去来看，中国每30至40年有望会出现经济发展拐点，上一次出现在1978年改革开放。过去的高增长主要是承接发达国家在第一、二、三次科技革命的红利，但国内核心技术短板，关键领域仍受制于人。中国亟待转型，以科技创新驱动，走出新增长曲线。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+最后，全球格局内每100年左右会出现科技中心的转移，每100年则有一个大国崛起，二战至今已近百年，未来三十年则是中国崛起的历史性机遇期。
 
-```markdown
-Syntax highlighted code block
+而这一切的核心在于掌握硬核科技，最具代表性的则是光电芯片、生物技术、信息技术、新材料、新能源等领域，在政策加持下已升级为国家战略。
 
-# Header 1
-## Header 2
-### Header 3
+*而要想有良好的科技发展，就必须要有一定的物质基础。
 
-- Bulleted
-- List
+## V50ETF有何不同
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CheungPro/invest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*风险提示：1.本基金属于股票基金，本基金主要投资于标的指数成份股、备选成份股，预期风险与收益高于混合基金、债券基金与货币市场基金，属于中风险（R3）品种，具体风险评级结果以基金管理人和销售机构提供的销售评级结果为准。2.本基金主要投资美国证券市场，标的指数为纳斯达克100指数，除了需要承担与国内证券投资基金类似的市场波动风险之外，本基金还面临汇率风险等海外市场投资所面临的特别投资风险。3.投资于本基金存在标的指数回报与股票市场平均回报偏离、标的指数波动、基金投资组合回报与标的指数回报偏离等主要风险。4.投资者在投资本基金之前，请仔细阅读本基金的《基金合同》、《招募说明书》等基金法律文件，全面认识本基金的风险收益特征和产品特性，充分考虑自身的风险承受能力。5.本产品由华夏基金发行与管理，代销机构不承担产品的投资、兑付和风险管理责任。6.基金产品历史业绩不预示其未来表现，指数业绩不代表基金未来表现。7.基金管理人提醒投资者基金投资的“买者自负”原则，在投资者做出投资决策后，基金运营状况、基金份额上市交易价格波动与基金净值变化引致的投资风险，由投资者自行负责。8.投资人应当充分了解基金定期定额投资和零存整取等储蓄方式的区别。定期定额投资是引导投资人进行长期投资、平均投资成本的一种简单易行的投资方式。但是定期定额投资并不能规避基金投资所固有的风险，不能保证投资人获得收益，也不是替代储蓄的等效理财方式。本资料仅为服务信息，观点仅供参考，不构成对于投资人的任何实质性建议或承诺，也不作为任何法律文件。9.市场有风险，投资需谨慎。
