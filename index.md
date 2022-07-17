@@ -29,3 +29,6 @@
 
 
 # 开个玩笑噻
+
+麦当劳给了我40，我现在在麦当劳，如果有人v我50，我就去肯德基（bushi）
+![image](https://user-images.githubusercontent.com/63193298/179385895-f3330bab-0e63-47b4-8b68-7ec2b9fab72b.png)
